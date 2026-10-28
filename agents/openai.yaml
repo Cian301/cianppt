@@ -1,3 +1,3 @@
 interface:
   display_name: "cianppt｜紧凑主图式 PPT"
-  short_description: "大复合图配独立论点框，紧凑不等分，交替左右布局并逐页渲染检查"
+  short_description: "先组织研究主线，大复合图配独立论点框，Python一图一程序并提供图表索引"

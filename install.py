@@ -13,6 +13,8 @@ SKILL_FILES = (
     "agents/openai.yaml",
     "references/layout-recipes.md",
     "references/figures-and-literature.md",
+    "references/research-storyline.md",
+    "references/figurecode-workflow.md",
 )
 
 
